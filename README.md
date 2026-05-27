@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ahmed-adjei1.github.io/QR-code-element/))
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-qr-code-element-using-flexbox-V5w_bDcFLs)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ahmed-adjei1.github.io/QR-code-element/)
 
 ## My process
 
